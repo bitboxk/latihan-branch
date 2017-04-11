@@ -1,2 +1,2 @@
 # latihan-branch
-hasil branch di cabangKu
+hasil branch dan merge di cabangKu
